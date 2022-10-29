@@ -13,7 +13,7 @@ This package imports `@debug` decorator for functions and methods, which:
 
 ## Usage
 
-1. Import debug from cleverest_debugger library: `from cleverest_debugger import debug`
+1. Import debug from clevdebug library: `from clevdebug import debug`
 2. Add `@debug` decorator to the function or method: `@debug`
 3. Run the script.
 
@@ -24,8 +24,8 @@ There are several usage cases.
 ### Simple Example
 
 ```python
-# import debug from cleverest_debugger
-from cleverest_debugger import debug
+# import debug from clevdebug
+from clevdebug import debug
 
 
 # Debugger for function
@@ -70,8 +70,8 @@ Output is:
 ### Catching errors
 
 ```python
-# import debug from cleverest_debugger
-from cleverest_debugger import debug
+# import debug from clevdebug
+from clevdebug import debug
 
 
 # Debugger for function
@@ -102,7 +102,7 @@ Output is:
 
 
 ```python
-from cleverest_debugger import debug
+from clevdebug import debug
 
 
 @debug
@@ -124,6 +124,6 @@ TypeError: Only functions or methods INSIDE a class can be debugged
 
 ## Installation
 
-`pip install cleverest_debugger`
+`pip install clevdebug`
 
 
