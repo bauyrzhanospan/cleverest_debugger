@@ -1,5 +1,7 @@
 # Overview
 
+[![PyPI Version][pypi-image]][pypi-url]
+
 This package is created to make the debug process much easier for python projects.
 
 ## Algorithm
@@ -126,4 +128,7 @@ TypeError: Only functions or methods INSIDE a class can be debugged
 
 `pip install clevdebug`
 
+<!-- Badges -->
+[pypi-image]: https://img.shields.io/pypi/v/clevdebug
+[pypi-url]: https://pypi.org/project/clevdebug
 
