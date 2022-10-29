@@ -1,4 +1,4 @@
-# Overview
+# Overview of the package
 
 [![PyPI Version][pypi-image]][pypi-url]
 
